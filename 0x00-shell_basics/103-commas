@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mlcan */ . \n
+ls -mlcan --format=commas  */ . \n
